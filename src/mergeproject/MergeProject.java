@@ -23,7 +23,7 @@ public class MergeProject {
     
     public static class TestMerge
 {
-    String s = new String("catherine");
+    //String s = new String("catherine");
     
 }
     public static void main(String[] args) {
