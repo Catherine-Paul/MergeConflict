@@ -9,15 +9,27 @@ package mergeproject;
 /**
  *
  * @author Catherine Paul <at BDMedia>
+ * 
+ * 
  */
+
+
+
 public class MergeProject {
 
     /**
      * @param args the command line arguments
      */
+    
+    public static class TestMerge
+{
+    String s = new String("catherine");
+}
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("This is the Person line");
+        
+        TestMerge S = new TestMerge();
+        System.out.println(new TestMerge().s);
     }
     
 }
