@@ -25,6 +25,7 @@ public class MergeProject {
 {
     String Y = new String("catherine");
     String k = new String("Paul");
+    String Z = new String("Ambooken");
     
 }
     public static void main(String[] args) {
