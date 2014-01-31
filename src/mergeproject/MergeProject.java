@@ -24,7 +24,7 @@ public class MergeProject {
     public static class TestMerge
 {
     String Y = new String("catherine");
-    String k;
+    String k = new String("Conflict");
     
 }
     public static void main(String[] args) {
