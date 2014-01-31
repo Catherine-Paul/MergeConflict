@@ -15,7 +15,7 @@ package mergeproject;
 
 
 
-public class MergeProject {
+public class MergeProjectRename {
 
     /**
      * @param args the command line arguments
