@@ -17,7 +17,7 @@ public class MergeProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("This is the PersonA line");
+        System.out.println("This is the 2change line");
     }
     
 }
