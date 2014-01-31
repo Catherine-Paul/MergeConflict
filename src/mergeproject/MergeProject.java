@@ -23,7 +23,7 @@ public class MergeProject {
     
     public static class TestMerge
 {
-    String s = new String("catherine");
+    String Y = new String("catherine");
     String k;
     
 }
@@ -31,7 +31,7 @@ public class MergeProject {
         // TODO code application logic here
         
         TestMerge S = new TestMerge();
-        System.out.println(new TestMerge().s);
+        System.out.println(new TestMerge().Y);
     }
     
 }
