@@ -23,13 +23,14 @@ public class MergeProject {
     
     public static class TestMerge
 {
-    String s = new String("catherine");
+    //String s = new String("catherine");
+    
 }
     public static void main(String[] args) {
         // TODO code application logic here
         
-        TestMerge S = new TestMerge();
-        System.out.println(new TestMerge().s);
+        //TestMerge S = new TestMerge();
+        //System.out.println(new TestMerge().s);
     }
     
 }
